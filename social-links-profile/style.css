@@ -1,4 +1,59 @@
 body{
     background-color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
 
+.container{
+    padding: 10px ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:#1F1F1F;
+    border-radius: 15px;
+    width: 280px;
+    height: 530px;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+    position: relative;
+    left: 32%;
+    padding-top: 10px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: rgb(182, 215, 81);
+    font-size: 13px;
+    position: relative;
+    bottom: 15px;
+}
+
+p{
+    text-align: center;
+    color: rgb(180, 183, 186);
+font-size: 15px;
+}
+
+button{
+    display: block;
+    background-color:#343333;
+    text-align: center;
+    color:rgb(201, 198, 198);
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+width: 70%;
+position: relative;
+left: 15%;
+
+}
