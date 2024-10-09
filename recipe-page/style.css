@@ -78,3 +78,36 @@ h3 {
 ol li {
   margin-bottom: 10px;
 }
+
+.nutr {
+  list-style: none;
+  margin-left: 10px;
+}
+
+table {
+  width: 100%;
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: none;
+  width: 85%;
+  margin-left: 25px;
+}
+
+tr {
+  border-top: 1px solid rgb(176, 173, 173);
+
+}
+tr:first-child {
+  border-top: none;
+}
+td {
+  border: none;
+  padding-bottom: 20px;
+  position: relative;
+  left: 7%;
+}
+
+.second {
+  color: hsl(332, 51%, 32%);
+}
