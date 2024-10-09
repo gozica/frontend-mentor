@@ -1,0 +1,14 @@
+body{
+    background-color: #F3E5D8;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 15px;
+    width: 600px;
+    height: 1000px;
+}
