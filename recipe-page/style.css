@@ -4,14 +4,14 @@ body {
 
 .container {
   position: absolute;
-  top: 65%;
+  top: 100%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: white;
   border-radius: 15px;
-  width: 630px;
-  max-height: 1400px;
-  padding-bottom: 20px
+  min-width: 630px;
+  height: 1330px;
+  
 }
 
 img {
@@ -27,6 +27,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
   text-indent: 20px;
+  
 }
 
 p {
