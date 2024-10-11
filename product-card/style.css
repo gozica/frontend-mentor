@@ -93,6 +93,7 @@ button{
     background-color:hsl(158, 36%, 37%);
     color: white;
     font-family: Fraunces;
+    cursor: pointer;
 }
 
 .fa-cart-shopping{
