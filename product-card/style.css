@@ -56,3 +56,26 @@ p{
     font-family: Montserrat;
 
 }
+
+h3{
+  position: absolute;
+    top: 62%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    font-size: 27px;
+    color:hsl(158, 36%, 37%);
+    font-family: Fraunces;
+}
+
+h4{
+     position: absolute;
+    top: 64%;
+    left:83%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    font-weight: 400;
+    color: hsl(228, 12%, 48%);
+    font-family: Montserrat;
+    text-decoration: line-through;
+    
+}
