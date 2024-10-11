@@ -22,3 +22,15 @@ img{
     border-end-start-radius:20px;
     border-top-left-radius: 20px;
 }
+
+h1{
+    position: absolute;
+    top: 5%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    font-size: 13px;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+    font-family: Montserrat;
+    letter-spacing: 5px;
+}
