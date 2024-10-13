@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(0, 0%, 98%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card1{
+    background-color: aqua;
+}
+
+.card2{
+    background-color: rgb(210, 26, 26);
+}
+
+.card3{
+    background-color: rgb(206, 92, 200);
+}
+
+.card4{
+    background-color: rgb(50, 213, 74);
+}
