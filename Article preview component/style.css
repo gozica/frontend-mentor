@@ -19,3 +19,11 @@ img{
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
+
+h1{
+    font-size: 20px;
+    position: absolute;
+    top: 1%;
+    left: 41%;
+    padding: 10px;
+}
