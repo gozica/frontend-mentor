@@ -8,7 +8,14 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    width: 550px;
-    height: 200px;
-    border-radius: 10px;
+    width: 570px;
+    height: 230px;
+    border-radius: 5px;
+}
+
+img{
+    width: 220px;
+    height: 230px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
