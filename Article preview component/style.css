@@ -1,0 +1,14 @@
+body{
+    background-color: #ECF2F7;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 550px;
+    height: 200px;
+    border-radius: 10px;
+}
