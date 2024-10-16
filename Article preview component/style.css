@@ -1,5 +1,6 @@
 body{
     background-color: #ECF2F7;
+    font-family: Manrope;
 }
 
 .container{
@@ -21,9 +22,12 @@ img{
 }
 
 h1{
-    font-size: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    word-spacing: 3px;
     position: absolute;
     top: 1%;
     left: 41%;
     padding: 10px;
+    
 }
