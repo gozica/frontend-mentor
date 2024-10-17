@@ -70,3 +70,15 @@ h3{
     left: 51%;
     color: hsl(217, 19%, 35%);
 }
+
+.fa-share{
+       position: absolute;
+    top: 80%;
+    left: 90%;
+    font-size: 20px;
+}
+
+.fa-share:hover{
+    color: hsl(212, 23%, 69%);
+    
+}
