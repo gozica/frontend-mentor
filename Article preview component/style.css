@@ -42,3 +42,12 @@ p{
     left: 41%;
     color: hsl(217, 19%, 35%);
 }
+
+#avatar{
+    position: absolute;
+    bottom: 10%;
+    right: 50%;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+}
